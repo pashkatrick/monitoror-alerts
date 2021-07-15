@@ -3,6 +3,7 @@
 I just create a python lib to grab monitoror logs from `--debug` mode and to alerting if errors
 
 ## Get started
+* pip install ...
 
 ## Features
 * mac notifications
